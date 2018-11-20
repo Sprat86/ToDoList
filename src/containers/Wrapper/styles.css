@@ -1,0 +1,7 @@
+.wrapper {
+    /*display: table;*/
+    text-align: center;
+    width: 1800px;
+    border-spacing: 20px 20px;
+    /*clear:both;*/
+}
